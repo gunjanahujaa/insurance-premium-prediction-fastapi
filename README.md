@@ -1,4 +1,4 @@
-# 🏥 Insurance Premium Prediction API
+#  Insurance Premium Prediction API
 
 A Machine Learning API built using **FastAPI** that predicts insurance premiums based on user information.
 
@@ -6,7 +6,7 @@ A Machine Learning API built using **FastAPI** that predicts insurance premiums 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Predict insurance premium using a trained Machine Learning model
 - FastAPI backend
@@ -18,7 +18,7 @@ A Machine Learning API built using **FastAPI** that predicts insurance premiums 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - FastAPI
@@ -30,7 +30,7 @@ A Machine Learning API built using **FastAPI** that predicts insurance premiums 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 .
@@ -46,7 +46,7 @@ A Machine Learning API built using **FastAPI** that predicts insurance premiums 
 
 ---
 
-# ▶️ Running the Project Locally
+#  Running the Project Locally
 
 ### 1. Clone the repository
 
@@ -75,7 +75,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-# 🐳 Run with Docker
+#  Run with Docker
 
 ### Build the Docker image
 
@@ -104,7 +104,7 @@ http://localhost:8000/docs
 
 ---
 
-## 📌 API Endpoint
+##  API Endpoint
 
 ### POST `/predict`
 
@@ -112,7 +112,7 @@ Returns the predicted insurance premium based on the input features provided by 
 
 ---
 
-## 📚 Concepts Practiced
+##  Concepts Practiced
 
 - FastAPI
 - REST API Development
@@ -125,7 +125,7 @@ Returns the predicted insurance premium based on the input features provided by 
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Gunjan Ahuja**
 
